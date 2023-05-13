@@ -1,0 +1,22 @@
+.profile-messeges{
+    display: flex;
+    border-radius: 20px;
+    background-color: rgb(194, 224, 250);
+    width:90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    height:117px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.photo{
+    width:23%;
+    height: 117px;
+}
+.profile-photo{
+    width:70%;
+    height:80%;
+    border-radius: 80px;
+    margin-top: 15px;
+    margin-left: 5px;
+}
