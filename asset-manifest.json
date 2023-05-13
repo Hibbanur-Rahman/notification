@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/notification/static/css/main.4c695661.css",
+    "main.js": "/notification/static/js/main.0abfab6f.js",
+    "index.html": "/notification/index.html",
+    "main.4c695661.css.map": "/notification/static/css/main.4c695661.css.map",
+    "main.0abfab6f.js.map": "/notification/static/js/main.0abfab6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c695661.css",
+    "static/js/main.0abfab6f.js"
+  ]
+}
